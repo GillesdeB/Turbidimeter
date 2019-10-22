@@ -1,10 +1,12 @@
 # Turbidimeter
 For Science Hack Day 2019 in San Francisco, we propose a water filtration system to turn dirty water into a drinkable, clean, sanitary fluid, using local supplies and an optional electronic turbidity measurement.
 https://sf.sciencehackday.org/hacks-2019/
-We had the chance of winning the Best Demonstration prize
+We had the chance of winning the Best Demonstration prize.
 
 ## Creators
-Chloe Bonneau, Gilles de Bordeaux, Virginie de Bordeaux
+- Chloe Bonneau
+- Gilles de Bordeaux
+- Virginie de Bordeaux
 
 ## APIs, data and tools used
 - Reclaimed plastic bottle, paper or cloth, sand, gravel, charcoal.
