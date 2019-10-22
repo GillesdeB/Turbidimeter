@@ -1,6 +1,7 @@
 # Turbidimeter
-For Science Hack Day 2019 in San Francisco, we propose a water filtration system to turn dirty water into a drinkable, clean, sanitary fluid, using local supplies and an optional electronic turbidity measurement.
+For Science Hack Day 2019 in San Francisco, we built a water filtration system to turn dirty water into a drinkable, clean, sanitary fluid, using local supplies and an optional electronic turbidity measurement.
 https://sf.sciencehackday.org/hacks-2019/
+
 We had the chance of winning the Best Demonstration prize.
 
 ## Creators
