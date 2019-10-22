@@ -25,6 +25,8 @@ https://sf.sciencehackday.org/hacks-2019/
 - Ask for production and distribution help from an NGO like the Billa And Melinda Gates Foundation, the Red Cross, etc.
 - Distribute wherever unsanitary drinkable water supply is an issue
 
+https://github.com/GillesdeB/Turbidimeter/blob/master/Turbidimeter.pdf
+
 ![Drinking water in dirty river](https://github.com/GillesdeB/Turbidimeter/blob/master/Kids%20drinking%20dirty%20river%20water.jpg)
 
 ![Material](https://github.com/GillesdeB/Turbidimeter/blob/master/Turbidimeter%20IMG.jpg)
